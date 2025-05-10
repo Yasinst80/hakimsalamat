@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    background-color: #00897b;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+<section class="about">
+    <h2>About Hakim Salamat</h2>
+    <p>
+        Hakim Salamat is a traditional health brand dedicated to promoting well-being through natural remedies, personalized nutrition, and ancient Iranian medicine. 
+        We offer educational content, natural products, and expert consultations to help you live healthier – in harmony with your body and temperament.
+    </p>
+</section>
+.product {
+    margin-top: 30px;
+}
+.about {
+    background-color: #e0f2f1;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.about h2 {
+    color: #00695c;
+}
